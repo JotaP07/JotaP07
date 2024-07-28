@@ -6,9 +6,12 @@
 
 <p align="center">
     <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=A3D4AB&style=for-the-badge&labelColor=00A651&logo=star"/>
+
   <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+<img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=FF6347&labelColor=FF0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+
+</a>
   <a href="https://github.com/JotaP07/ViewCounter">
     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/></a>
 </p>

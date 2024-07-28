@@ -67,7 +67,8 @@
 
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-   <img src="https://camo.githubusercontent.com/45edd68b7b1a31da5dfa8e9cef3cffe4cc45ec4f7584d51fafaf8a7d6eaad44e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c6526636f6c6f723d303030303030266c6f676f3d4170706c65266c6f676f436f6c6f723d464646464646266c6162656c3d" width = 90px>
+   <img src="https://img.shields.io/badge/Mac-grey?style=for-the-badge&logo=macos&logoColor=white">
+   <img src="https://img.shields.io/badge/Ios-white?style=for-the-badge&logo=ios&logoColor=black">
 </span>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 28px>  </picture> • Other Tools and Technologies 

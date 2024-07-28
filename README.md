@@ -120,7 +120,7 @@
    💬 Send me a Message 🗨️
 </p>
 <p align="center">
-  <a href="www.linkedin.com/in/joão-pedro-canhete-34460b236" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-pedro-canhete-34460b236/" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
   </a>
   <a href="mailto:jpcanhete.contact@gmail.com" target="_blank">

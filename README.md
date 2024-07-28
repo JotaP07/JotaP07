@@ -3,25 +3,21 @@
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=FFFFFF&size=50&center=true&vCenter=true&width=900&height=100&lines=-+Hello!+-;-+I'm+João+Pedro+-;-+Software+Engineering+Student+-;-+Focused+on+Learning+-">
   </a>
-
 </p>
-
 <p align="center">
 <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=00A651&style=for-the-badge&labelColor=006400&logo=star"/>
 </a>
-
 <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-   
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> 
 </a>
-
 
 </a>
   <a href="https://github.com/JotaP07/ViewCounter">
     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/></a>
 </p>
 
+<br><br>
 
 ## 🧑🏻‍💻 About Me 
 
@@ -33,9 +29,11 @@
 - 🎓 I'm a Software Engineering Student (4th Period)
 - ⚡ Fun fact **Call me JP**
 
+<br><br>
+
 ## 🥷🏻 Skills
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture>Languages
+###  <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> • Languages
 
 <span> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -47,16 +45,16 @@
 </span>
 
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 28px>  </picture> Data Analysis
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 28px>  </picture> • Data Analysis
 
 <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white">
 
-### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  </picture> Frameworks
+### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  </picture> • Frameworks
 
 ![BootsTrap](https://camo.githubusercontent.com/c402bd25609922ab7160b91524aeb125a2e664070816aeb6dd66af9c41f70087/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465)
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> IDEs
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> • IDEs
 
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
@@ -65,14 +63,14 @@
 <img src="https://camo.githubusercontent.com/2bc85407210475993faa97653e10da2a4decd5e839bb6d9698b37f5fca11bc5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d" width = 148px>   
 </span>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 28px>  </picture> Operating Systems
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 28px>  </picture> • Operating Systems
 
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
    <img src="https://camo.githubusercontent.com/45edd68b7b1a31da5dfa8e9cef3cffe4cc45ec4f7584d51fafaf8a7d6eaad44e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4170706c6526636f6c6f723d303030303030266c6f676f3d4170706c65266c6f676f436f6c6f723d464646464646266c6162656c3d" width = 90px>
 </span>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 28px>  </picture> Other Tools and Technologies 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 28px>  </picture> • Other Tools and Technologies 
 <span>
   <img src="https://camo.githubusercontent.com/ccceab02b3dd9c1afd6be271ade73df1d9b76b87d010dd3282570836d6870ba3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -84,3 +82,27 @@
    <img src="https://camo.githubusercontent.com/293656f93522cb949e24c56b187b1732df20a67e345f72cb2e54bdf3170c9a61/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4669676d6126636f6c6f723d463234453145266c6f676f3d4669676d61266c6f676f436f6c6f723d464646464646266c6162656c3d" width = 90px>
    <img src="https://camo.githubusercontent.com/b354c3e3dfb896f5f2b7c529c6e83d182c6f473110277503b682f9666e41bb15/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d65746126636f6c6f723d303436374446266c6f676f3d4d657461266c6f676f436f6c6f723d464646464646266c6162656c3d">
 </span>
+
+<br><br>
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
+
+<p align="center">
+  <!--- stats (start) -->
+<table align="center"">
+<tr border="none">
+<td align="center">
+   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JotaP07&theme=shadow-purple&hide_border=true&excludeDaysLabel=EB5454" alt="GitHub Streak" width = 700px />
+  </a>
+  <br></br>
+ <img src="https://github-readme-stats.vercel.app/api?username=JotaP07&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 GitHub Stats" width = 700px />
+</td>
+<td align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP07&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 Top Languages" width = 500px />
+  </td>
+</tr>
+</table>
+
+

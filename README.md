@@ -111,4 +111,35 @@
 </tr>
 </table>
 
+<br><br>
+
+<p align="center">
+   <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=FFFFFF&size=40&center=true&vCenter=true&width=1000&height=80&lines=-+Hey,+Do+You+Want+to+Talk+to+Me?+-;-+Contact+Profiles+Below+-;-+I+Hope+You+Liked+It!+-;-+Byyyyye♥+-;++;">
+  </a>
+   💬 Send me a Message 🗨️
+</p>
+<p align="center">
+  <a href="www.linkedin.com/in/joão-pedro-canhete-34460b236" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
+  </a>
+  <a href="mailto:jpcanhete.contact@gmail.com" target="_blank">
+    <img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
+  </a>
+  <a href="https://discordapp.com/users/jotapeee07" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
+  </a>
+  <a href="https://x.com/JpDev_" target="_blank">
+    <img alt="Vedant Jajoo Twitter" width="50" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+  </a>
+  <a href="https://www.instagram.com/joao.canhete/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="50" width="50" />
+  </a>
+</p>
+<h1 align="center"></h1>
+<p align="center">
+   <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="150" > 
+</p>
+
+
 

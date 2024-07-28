@@ -23,11 +23,16 @@
 
 <!-- <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture> -->
 
-- 🔭 I’m currently working on [MyLib](https://github.com/JotaP07/MyLib)
-- 🌱 I’m currently learning **Java**
-- 📫 How to reach me **jpcanhete.contact@gmail.com**
-- 🎓 I'm a Software Engineering Student (4th Period)
-- ⚡ Fun fact **Call me JP**
+### 🔭 I’m currently working on [MyLib](https://github.com/JotaP07/MyLib)
+
+### 🌱 I’m currently learning Java
+
+### 📫 How to reach me **jpcanhete.contact@gmail.com**
+
+### 🎓 I'm a Software Engineering Student (4th Period)
+
+### ⚡ Fun fact: Call me JP
+
 
 <br><br>
 

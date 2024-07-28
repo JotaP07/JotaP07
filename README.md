@@ -138,7 +138,7 @@
 </p>
 <h1 align="center"></h1>
 <p align="center">
-   <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="150" > 
+   <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="100" > 
 </p>
 
 

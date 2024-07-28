@@ -115,7 +115,7 @@
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=FFFFFF&size=40&center=true&vCenter=true&width=1000&height=80&lines=-+Hey,+Do+You+Want+to+Talk+to+Me?+-;-+Contact+Profiles+Below+-;-+I+Hope+You+Liked+It!+-;-+Byyyyye♥+-;++;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=FFFFFF&size=40&center=true&vCenter=true&width=1000&height=80&lines=-+Hey,+Do+You+Want+to+Talk+to+Me?+-;-+Contact+Profiles+Below+-;-+I+Hope+You+Liked+My+Profile!+ッ+-;++;">
   </a>
    💬 Send me a Message 🗨️
 </p>

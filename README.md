@@ -6,10 +6,11 @@
 </p>
 <p align="center">
 <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=00A651&style=for-the-badge&labelColor=006400&logo=star"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=00A651&style=for-the-badge&labelColor=006400&logo=star&cache-bust=TIMESTAMP"/>
 </a>
+
 <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> 
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white&cache-bust=TIMESTAMP"/> 
 </a>
 
 </a>

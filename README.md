@@ -9,7 +9,7 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/JotaP07?color=00A651&style=for-the-badge&labelColor=006400&logo=star"/>
 </a>
 <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/> 
+    <img alt="followers" title="Followers" src="https://img.shields.io/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> 
 </a>
 </a>
   <a href="https://github.com/JotaP07/ViewCounter">

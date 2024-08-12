@@ -28,7 +28,7 @@
 
 #### 📫 • How to reach me **jpcanhete.contact@gmail.com**
 
-#### 🎓 • I'm a Software Engineering Student (4th Period)
+#### 🎓 • I'm a Analysis and Development of Systems Student (4th Period)
 
 #### ⚡ • Fun fact: Call me JP
 

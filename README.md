@@ -11,16 +11,14 @@
 <a href="https://github.com/JotaP07?tab=followers">
     <img alt="followers" title="Followers" src="https://img.shields.io/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> 
 </a>
-</a>
   <a href="https://github.com/JotaP07/ViewCounter">
-    <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/></a>
+    <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/>
+</a>
 </p>
 
 <br><br>
 
 ## 🧑🏻‍💻 About Me 
-
-<!-- <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture> -->
 
 #### 🔭 • I’m currently working on [MyLib](https://github.com/JotaP07/MyLib)
 
@@ -32,12 +30,11 @@
 
 #### ⚡ • Fun fact: Call me JP
 
-
 <br><br>
 
 ## 🥷🏻 Skills
 
-###  <picture>  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 25px>  </picture> • Languages
+### • Languages
 
 <span> 
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -48,16 +45,15 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </span>
 
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 28px>  </picture> • Data Analysis
+### • Data Analysis
 
 <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white">
 
-### <picture> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px>  </picture> • Frameworks
+### • Frameworks
 
 <img src="https://camo.githubusercontent.com/621ad45e5af2fa8ce30932b8e9a5c6561ec0b3180845ec409a932da8bb5e09f6/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537072696e6726636f6c6f723d364442333346266c6f676f3d537072696e67266c6f676f436f6c6f723d464646464646266c6162656c3d"> <img src="https://camo.githubusercontent.com/f3144a44fbb26b37fe2a0e05b38d490a98871efe1875bb6048f79d6cfe7fe672/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d506f73746d616e26636f6c6f723d464636433337266c6f676f3d506f73746d616e266c6f676f436f6c6f723d464646464646266c6162656c3d">
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 25px>  </picture> • IDEs
+### • IDEs
 
 <span>
 <img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue">
@@ -65,7 +61,7 @@
 <img src="https://camo.githubusercontent.com/2bc85407210475993faa97653e10da2a4decd5e839bb6d9698b37f5fca11bc5f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e74656c6c694a2b4944454126636f6c6f723d303030303030266c6f676f3d496e74656c6c694a2b49444541266c6f676f436f6c6f723d464646464646266c6162656c3d" width = 148px>   
 </span>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 28px>  </picture> • Operating Systems
+### • Operating Systems
 
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -73,7 +69,8 @@
    <img src="https://img.shields.io/badge/Ios-white?style=for-the-badge&logo=ios&logoColor=black">
 </span>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 28px>  </picture> • Other Tools and Technologies 
+### • Other Tools and Technologies 
+
 <span>
   <img src="https://camo.githubusercontent.com/ccceab02b3dd9c1afd6be271ade73df1d9b76b87d010dd3282570836d6870ba3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d47697448756226636f6c6f723d313831373137266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646266c6162656c3d">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -85,12 +82,11 @@
 
 <br><br>
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="30px"> </picture> Github Stats
+## Github Stats
 
 <p align="center">
   <!--- stats (start) -->
-<table align="center"">
+<table align="center">
 <tr border="none">
 <td align="center">
    <a href="https://git.io/streak-stats">
@@ -131,6 +127,3 @@
 <p align="center">
    <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="100" > 
 </p>
-
-
-

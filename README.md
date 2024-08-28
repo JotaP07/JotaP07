@@ -5,12 +5,11 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/JotaP07?color=00A651&style=for-the-badge&labelColor=006400&logo=star"/>
-</a>
-<a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Followers" src="https://img.shields.io/github/followers/JotaP07?color=FF0000&labelColor=8B0000&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/> 
-</a>
+ <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/></a>
+  <a href="https://github.com/JotaP07?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   
   <a href="https://github.com/JotaP07/ViewCounter">
     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/>
 </a>

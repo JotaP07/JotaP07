@@ -21,7 +21,7 @@
 
 #### 🔭 • I’m currently working on [MyLib](https://github.com/JotaP07/MyLib)
 
-#### 🌱 • I’m currently learning Java
+#### 🌱 • I’m currently learning Angular
 
 #### 📫 • How to reach me **jpcanhete.contact@gmail.com**
 

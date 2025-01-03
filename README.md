@@ -19,7 +19,7 @@
 
 ## 🧑🏻‍💻 About Me 
 
-#### 🔭 • I’m currently working on [MyLib](https://github.com/JotaP07/MyLib)
+#### 🔭 • I’m currently working on 🤫
 
 #### 🌱 • I’m currently learning React
 

@@ -86,15 +86,13 @@
 ## 📊 Github Stats
 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td align="center">
-   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JotaP07&theme=shadow-purple&hide_border=true&excludeDaysLabel=EB5454" alt="GitHub Streak" width = 700px />
-  </a>
-  <br></br>
- <img src="https://github-readme-stats.vercel.app/api?username=JotaP07&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 GitHub Stats" width = 700px />
+  <!--- stats (start) -->
+<!--   <br></br> -->
+
+ <img src="https://github-readme-stats.vercel.app/api/?username=JotaP07&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 GitHub Stats" width = 700px />
 </td>
 <td align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP07&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 Top Languages" width = 500px />

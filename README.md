@@ -21,7 +21,7 @@
 
 #### 🔭 • I’m currently working on 🤫...
 
-#### 🌱 • I’m currently learning React
+#### 🌱 • I’m currently learning NextJs
 
 #### 📫 • How to reach me **jpcanhete.contact@gmail.com**
 

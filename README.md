@@ -17,7 +17,7 @@
 
 <br><br>
 
-## 🧑🏻‍💻 About Me 
+##  About Me 
 
 #### 🔭 • I’m currently working on 🤫...
 
@@ -31,7 +31,7 @@
 
 <br><br>
 
-## 🥷🏻 Skills
+## Skills
 
 ### • Languages
 

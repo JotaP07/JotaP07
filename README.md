@@ -25,7 +25,7 @@
 
 #### 📫 • How to reach me **jpcanhete.contact@gmail.com**
 
-#### 🎓 • I'm a Analysis and Development of Systems Student (5th Period)
+#### 🎓 • Degree in Analysis and Systems Development
 
 #### ⚡ • Fun fact: Call me JP
 

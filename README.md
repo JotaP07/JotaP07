@@ -1,3 +1,4 @@
+<td align="center">
 <p align="center">
    <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="190" > 
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -8,14 +9,14 @@
  <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/></a>
   <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+
   <a href="https://github.com/JotaP07/ViewCounter">
 <!--     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/> need a new domain -->
 </a>
 </p>
 
-<br><br>
 
 ##  About Me 
 
@@ -83,7 +84,7 @@
 
 <br><br>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats -->
 
 <p align="start">
 <table align="start">
@@ -92,7 +93,7 @@
   <!--- stats (start) -->
 <!--   <br></br> -->
 
-<!--  <img src="https://github-readme-stats.vercel.app/api/?username=JotaP07&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 GitHub Stats" width = 700px /> -->
+<!--  <img src="https://github-readme-stats.vercel.app/api/?username=JotaP07&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 GitHub Stats" width = 700px /> 
 </td>
 <td align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaP07&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="JotaP07 Top Languages" width = 300px />
@@ -101,6 +102,7 @@
 </table>
 
 <br><br>
+-->
 
 <p align="center">
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -126,3 +128,5 @@
 <p align="center">
    <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="100" > 
 </p>
+
+</table>

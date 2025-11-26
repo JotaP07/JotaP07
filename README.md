@@ -17,7 +17,6 @@
 </a>
 </p>
 
-
 ##  About Me 
 
 #### 🔭 • I’m currently working on 🤫...
@@ -30,7 +29,7 @@
 
 #### ⚡ • Fun fact: Call me JP
 
-<br><br>
+<br>
 
 ## Skills
 

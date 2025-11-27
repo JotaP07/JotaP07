@@ -1,21 +1,22 @@
-<td align="center">
-<p align="center">
-   <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="190" > 
-   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-+Hello!+-;-+I'm+João+Pedro+-;-+Software+Engineering+Student+-;-+Focused+on+Learning+-">
-  </a>
-</p>
-<p align="center">
- <a href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/></a>
-  <a href="https://github.com/JotaP07?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/JotaP07/ViewCounter">
-<!--     <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/> need a new domain -->
-</a>
-</p>
+<table>
+        <tr>
+            <th>
+                <p align="center">
+                    <img src="https://github.com/JotaP07/JotaP07/blob/master/logoAtt.png" width="190" > 
+                    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+                        <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=50&lines=-+Hello!+-;-+I'm+João+Pedro+-;-+Software+Engineering+Student+-;-+Focused+on+Learning+-">
+                    </a>
+                </p>     
+               <table><tr><h1></h1></tr></table>
+            <p align="center" >
+                <span href="https://github.com/JotaP07?tab=repositories&sort=stargazers">
+                    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/JotaP07?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/>
+                </span>
+                <span href="https://github.com/JotaP07?tab=followers">
+                    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/JotaP07?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+                </span>    
+        </tr>
+</table>
 
 ##  About Me 
 
